@@ -1,2 +1,4 @@
-# DevProjects - Web scraper to get news article content and title
-Just for practice
+# DevProjects - Web scraper to get news article content and title.
+Enter the website url, the title of the page/ article and the content will be downloaded to a csv file.
+
+##Just for practice
